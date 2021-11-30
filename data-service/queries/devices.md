@@ -1,6 +1,6 @@
 ---
-cover: ../../.gitbook/assets/skey_network_logoPodstawowe_RGB_01_whiteBG.png
-coverY: 0
+cover: ../../.gitbook/assets/skey logo.jpg
+coverY: 45.13950073421439
 ---
 
 # devices
@@ -39,7 +39,7 @@ query devices($order: String, $orderBy: String, $search: String, $skip: Int, $ta
 }
 ```
 
-#### Variables
+#### Variables:
 
 ```
 {
@@ -56,7 +56,7 @@ query devices($order: String, $orderBy: String, $search: String, $skip: Int, $ta
 }
 ```
 
-#### Response
+#### Response:
 
 ```
 {
