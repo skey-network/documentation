@@ -15,9 +15,9 @@ _Oracle_ - Skey Network Ecosystem's set of tools for Suppliers, which includes S
 
 _Supplier API_ - is one of Skey Network's components that allows the Supplier’s dApp to be managed. It allows for example:
 
-* creation of new accounts for devices in the blockchain, known as wallets;
+* creation of new accounts for devices in the blockchain, known as wallets
 * moderation of devices' metadata such as name, description, geolocation
-* management of the devices' keys ( creating, transferring, blocking, assigning expiry time)
+* management of the devices' keys ( creating, transferring, blocking, assigning expiry time).
 
 _Listener_ - One of Skey Network's Oracle components. Listens for an event in the Supplier's dApp and sends a command to the Supplier's IoT platform.
 
