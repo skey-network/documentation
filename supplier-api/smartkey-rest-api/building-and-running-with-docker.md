@@ -1,0 +1,12 @@
+---
+cover: ../../.gitbook/assets/skey_network_logoPodstawowe_RGB_01_whiteBG.png
+coverY: 0
+---
+
+# Building and running with Docker
+
+After downloading the project and entering the project folder, do the following:
+
+* In the main project folder create a new file called `.env.docker` and fill it with environment variables.
+* Run docker build `. --tag supplier-api:latest`
+* After building has finished, run docker `run supplier-api:latest`
