@@ -9,7 +9,7 @@ When this API creates a new blockchain account, its seeds are encrypted with AES
 
 [https://www.npmjs.com/package/crypto-js](https://www.npmjs.com/package/crypto-js)
 
-Example usage:
+Example usage of decryption using crypto-js:
 
 ```
 const CryptoJS = require('crypto-js')
