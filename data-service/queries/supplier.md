@@ -1,6 +1,6 @@
 ---
-cover: ../../.gitbook/assets/skey_network_logoPodstawowe_RGB_01_whiteBG.png
-coverY: 0
+cover: ../../.gitbook/assets/skey logo.jpg
+coverY: 42.02643171806167
 ---
 
 # supplier
@@ -38,7 +38,7 @@ query supplier($address: String!) {
 
 `{"address": "xyz789"}`
 
-#### Response
+#### Response:
 
 ```
 {
