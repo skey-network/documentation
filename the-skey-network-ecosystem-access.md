@@ -1,6 +1,6 @@
 ---
-cover: .gitbook/assets/Skey Network Infrastructure_2.png
-coverY: 0
+cover: .gitbook/assets/skey logo.jpg
+coverY: 43.58296622613803
 ---
 
 # The Skey Network Ecosystem access
@@ -13,8 +13,8 @@ Each provider may optionally use a publicly accessible server - Data Service - i
 
 In order to connect to Skey Network's technical blockchain, each Partner is recognised as a "provider" of a new service, who implements elements of Skey Network's architecture, such as:
 
-* REST API as an interface to manage the Supplier's main dApp;
-* Listener, which listens for events from the Supplier dApp and at the appropriate moment sends a signal to the IoT cloud with the relevant command;
+* REST API as an interface to manage the Supplier's main dApp
+* Listener, which listens for events from the Supplier dApp and at the appropriate moment sends a signal to the IoT cloud with the relevant command
 * Elements that make up the rest of the Oracle ecosystem, such as Supplier API, or Key Manager.
 
 After connection to the Oracle ecosystem, partners can communicate and transfer data across the blockchain network.
@@ -23,14 +23,14 @@ The tangential element between providers is blockchain and the device's keys (to
 
 For proper functionality, each element is described with procedures to enable easy and intuitive integration of the Partner into the Skey Network ecosystem platform. Among the main procedures are, among others, the following processes:
 
-* creation of a user account, namely a wallet, from the level of a dedicated application;
-* adding an IoT device;
-* generating and transmitting the Skey Network's key to the user application;
+* creation of a user account, namely a wallet, from the level of a dedicated application
+* adding an IoT device
+* generating and transmitting the Skey Network's key to the user application
 
 Additionally, the Supplier API's key may have properties/information necessary for the service provider, such as:
 
-* the time during which the contract is valid. For example, access to a hotel room may be active from 16:00 until 10:00 the next morning;
-* the date of expiry of the contract. For example, a car may be available for 24 hours;
+* the time during which the contract is valid. For example, access to a hotel room may be active from 16:00 until 10:00 the next morning
+* the date of expiry of the contract. For example, a car may be available for 24 hours
 * payment and method of payment.
 
 
