@@ -1,6 +1,6 @@
 ---
 cover: .gitbook/assets/skey logo.jpg
-coverY: 0
+coverY: 42.02643171806167
 ---
 
 # Links to external resources
