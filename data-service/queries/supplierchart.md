@@ -1,6 +1,6 @@
 ---
-cover: ../../.gitbook/assets/skey_network_logoPodstawowe_RGB_01_whiteBG.png
-coverY: 0
+cover: ../../.gitbook/assets/skey logo.jpg
+coverY: 42.80469897209985
 ---
 
 # supplierChart
@@ -36,7 +36,7 @@ query supplierChart($id: String!, $begin: Float!, $n: Int!, $length: Float!) {
 
 `{"id": "xyz789", "begin": 123.45, "n": 987, "length": 123.45}`
 
-#### Response
+#### Response:
 
 ```
 {
