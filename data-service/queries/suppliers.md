@@ -1,6 +1,6 @@
 ---
-cover: ../../.gitbook/assets/skey_network_logoPodstawowe_RGB_01_whiteBG.png
-coverY: 0
+cover: ../../.gitbook/assets/skey logo.jpg
+coverY: 42.80469897209985
 ---
 
 # suppliers
@@ -35,7 +35,7 @@ query suppliers($order: String, $orderBy: String, $search: String, $skip: Int, $
 }
 ```
 
-#### Variables
+#### Variables:
 
 ```
 {
@@ -48,7 +48,7 @@ query suppliers($order: String, $orderBy: String, $search: String, $skip: Int, $
 }
 ```
 
-#### Response
+#### Response:
 
 ```
 {
