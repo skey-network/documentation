@@ -1,6 +1,6 @@
 ---
 cover: ../../.gitbook/assets/skey_network_logoPodstawowe_RGB_01_whiteBG.png
-coverY: 0
+coverY: 173.3861967694567
 ---
 
 # DeviceChartDocument
