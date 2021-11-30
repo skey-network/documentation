@@ -13,7 +13,7 @@ coverY: 42.80469897209985
 
 * Returns a `Device!`
 
-#### Example
+### Example
 
 #### Query:
 
@@ -51,11 +51,11 @@ query device($address: String!) {
 
 ```
 
-#### Variables
+#### Variables:
 
 `{"address": "xyz789"}`
 
-#### Response
+#### Response:
 
 ```
 {
