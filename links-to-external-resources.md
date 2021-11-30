@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/skey_network_logoPodstawowe_RGB_01_whiteBG.png
+cover: .gitbook/assets/skey logo.jpg
 coverY: 0
 ---
 
@@ -7,9 +7,10 @@ coverY: 0
 
 
 
-|   Component  |                                    URL reference                                    |
-| :----------: | :---------------------------------------------------------------------------------: |
-| Supplier API |                                                                                     |
-| Data Service |                                                                                     |
-|   Explorer   | [https://explorer.SkeyNetworkplatform.io/](https://explorer.skeynetworkplatform.io) |
-|   **Node**   |                                                                                     |
+|   Component  |                                                                  URL reference                                                                 |
+| :----------: | :--------------------------------------------------------------------------------------------------------------------------------------------: |
+| Supplier API |             [https://demo.supplier-api.smartkeyplatform.com/api\_docs/](https://demo.supplier-api.smartkeyplatform.com/api\_docs/)             |
+| Data Service |                                                                                                                                                |
+|   Explorer   |                               [https://explorer.SkeyNetworkplatform.io/](https://explorer.skeynetworkplatform.io)                              |
+|   **Node**   | [https://master.testnet.node.SkeyNetworkplatform.io/api-docs/index.htm](https://master.testnet.node.skeynetworkplatform.io/api-docs/index.htm) |
+
