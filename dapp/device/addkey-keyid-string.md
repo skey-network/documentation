@@ -1,7 +1,7 @@
 ---
 description: Adds key to device.
-cover: ../../.gitbook/assets/skey_network_logoPodstawowe_RGB_01_whiteBG.png
-coverY: 0
+cover: ../../.gitbook/assets/skey logo.jpg
+coverY: 42.80469897209985
 ---
 
 # addKey(keyID: String)
