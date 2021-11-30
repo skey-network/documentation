@@ -1,6 +1,6 @@
 ---
-cover: ../../.gitbook/assets/skey_network_logoPodstawowe_RGB_01_whiteBG.png
-coverY: 0
+cover: ../../.gitbook/assets/skey logo.jpg
+coverY: 45.13950073421439
 ---
 
 # Key
@@ -25,4 +25,22 @@ coverY: 0
 
 #### Example:
 
-koniec
+```
+{
+  "id": ID,
+  "assetId": "xyz789",
+  "issuer": "xyz789",
+  "owner": "abc123",
+  "name": "xyz789",
+  "device": "xyz789",
+  "validTo": 987.65,
+  "issueTimestamp": 987.65,
+  "burned": true,
+  "createdAt": DateTime,
+  "updatedAt": DateTime,
+  "whitelisted": false,
+  "score": 123.45,
+  "deviceName": "abc123",
+  "deviceWhitelisted": false
+}
+```
