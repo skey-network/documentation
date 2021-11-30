@@ -12,7 +12,7 @@ coverY: 43.58296622613803
 * `current - DeviceSubDocument`
 * `historical - [DeviceSubDocument!]`
 
-#### `Example:`
+#### Example:
 
 ```
 {
