@@ -13,12 +13,12 @@ coverY: 43.58296622613803
 * `recipient` - address of recipient
 * `key as payment` - key to send
 
-Requirements:
+#### Requirements:
 
 * valid key (issuer, timestamp)
 * key in users wallet
 
-Error messages:
+#### Error messages:
 
 * `wrong asset count` - more or less than one asset provided as payment
 * `wrong asset issuer` - asset issuer is other than Supplier
