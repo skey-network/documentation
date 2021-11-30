@@ -7,7 +7,7 @@ coverY: 0
 
 Supplier API is one of the Skey Network's components that allows to manage the Supplier’s dApp. It allows for example, to:
 
-* creating new accounts for devices in the blockchain, known as wallets;
+* creation new accounts for devices in the blockchain, known as wallets;
 * moderation of devices' metadata such as name, description, geolocation;
 * devices' key management ( creating, transferring, blocking, assigning expiry time).
 
