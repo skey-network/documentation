@@ -2,8 +2,8 @@
 description: >-
   Listens for an event in the Supplier's dApp and sends a command to the
   Supplier's IoT platform.
-cover: ../.gitbook/assets/skey_network_logoPodstawowe_RGB_01_whiteBG.png
-coverY: 0
+cover: ../.gitbook/assets/skey logo.jpg
+coverY: 42.80469897209985
 ---
 
 # Supplier Listener
