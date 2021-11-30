@@ -1,6 +1,6 @@
 ---
-cover: ../../.gitbook/assets/skey logo.jpg
-coverY: 44.36123348017621
+cover: ../../.gitbook/assets/skey_network_logoPodstawowe_RGB_01_whiteBG.png
+coverY: 0
 ---
 
 # SearchResults
