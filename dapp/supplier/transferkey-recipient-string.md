@@ -2,8 +2,8 @@
 description: >-
   Transfers key to other user (DAppFather tries to refill both accounts on
   success)
-cover: ../../.gitbook/assets/skey_network_logoPodstawowe_RGB_01_whiteBG.png
-coverY: 0
+cover: ../../.gitbook/assets/skey logo.jpg
+coverY: 43.58296622613803
 ---
 
 # transferKey(recipient: String)
