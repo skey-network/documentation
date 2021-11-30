@@ -1,11 +1,11 @@
 ---
-cover: ../../.gitbook/assets/skey_network_logoPodstawowe_RGB_01_whiteBG.png
-coverY: 0
+cover: ../../.gitbook/assets/skey logo.jpg
+coverY: 42.80469897209985
 ---
 
 # deviceChart
 
-#### Arguments
+#### Arguments:
 
 * `id - String!`
 * `begin - Float!` - Unix timestamp in milliseconds pointing to date when to start the chart. For example,to draw a monthly chart starting in January 2021, use 1609459200000.
@@ -32,11 +32,11 @@ query deviceChart($id: String!, $begin: Float!, $n: Int!, $length: Float!) {
 }
 ```
 
-#### Variables
+#### Variables:
 
 `{"id": "abc123", "begin": 987.65, "n": 987, "length": 123.45}`
 
-#### Response
+#### Response:
 
 
 
