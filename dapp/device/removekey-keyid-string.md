@@ -12,7 +12,7 @@ coverY: 0
 
 #### Requirements:
 
-* Invoking wallet must be owner of device or main dApp
+* Address invoking wallet must be owner of device or main dApp
 
 #### Error messages:
 
