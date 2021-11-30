@@ -6,7 +6,6 @@
 * [dApp](dapp/README.md)
   * [dAppFather](dapp/dappfather.md)
   * [Supplier](dapp/supplier/README.md)
-    * [addDevice(deviceAddr: String)](dapp/supplier/adddevice-deviceaddr-string.md)
     * [deviceAction(keyID: String, action: String)](dapp/supplier/deviceaction-keyid-string-action-string.md)
     * [transferKey(recipient: String)](dapp/supplier/transferkey-recipient-string.md)
     * [requestKey(deviceAddr: String, duration: Int)](dapp/supplier/requestkey-deviceaddr-string-duration-int.md)
