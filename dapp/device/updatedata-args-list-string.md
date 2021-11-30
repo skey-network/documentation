@@ -15,7 +15,7 @@ List of actions written as string (max. 15 entries at once) in schema: action#ty
 * `value` - value of entry or delete#key, skip for delete
 * `key` - key of entry
 
-Eg: `set#int#counter#1` delete#counter2.
+Eg: `set#int#counter#1` `delete#counter2`.
 
 #### Error messages:
 
