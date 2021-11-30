@@ -1,6 +1,6 @@
 ---
-cover: ../../.gitbook/assets/skey_network_logoPodstawowe_RGB_01_whiteBG.png
-coverY: 0
+cover: ../../.gitbook/assets/skey logo.jpg
+coverY: 42.80469897209985
 ---
 
 # search
@@ -48,7 +48,7 @@ query search($skip: Int, $take: Int, $input: String!) {
 
 `{"skip": 0, "take": 25, "input": "xyz789"}`
 
-#### Response
+#### Response:
 
 ```
 {
