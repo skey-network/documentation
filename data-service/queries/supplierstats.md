@@ -1,6 +1,6 @@
 ---
-cover: ../../.gitbook/assets/skey_network_logoPodstawowe_RGB_01_whiteBG.png
-coverY: 0
+cover: ../../.gitbook/assets/skey logo.jpg
+coverY: 43.58296622613803
 ---
 
 # supplierStats
@@ -32,11 +32,11 @@ query supplierStats($id: String!) {
 }
 ```
 
-#### Variables
+#### Variables:
 
 `{"id": "xyz789"}`
 
-#### Response
+#### Response:
 
 ```
 {
