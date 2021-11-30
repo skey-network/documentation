@@ -1,7 +1,7 @@
 ---
 description: Carries out some action on device (tries to refill account on success);
-cover: ../../.gitbook/assets/skey_network_logoPodstawowe_RGB_01_whiteBG.png
-coverY: 0
+cover: ../../.gitbook/assets/skey logo.jpg
+coverY: 44.36123348017621
 ---
 
 # deviceAction(keyID: String, action: String)
