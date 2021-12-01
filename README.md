@@ -13,8 +13,8 @@ coverY: 42.02643171806167
 
 **Got 2 minutes?** Check out a video overview of our product:
 
-{% embed url="https://youtu.be/Vd-TD9dfB2M" %}
-The first blockchain based Sim Card in the world
+{% embed url="https://youtu.be/2E8vsdf9KRU" %}
+Skey Network - Smart City of the Future
 {% endembed %}
 
 ## **Introduction**
