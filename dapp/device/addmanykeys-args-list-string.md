@@ -12,7 +12,7 @@ coverY: 44.36123348017621
 
 #### Error messages:
 
-* `Not permitted` - User is not device's supplier
+* `[E103] Not permitted` - User is not device's supplier
 
 ```
 func addManyKeys(args:List[String])={

@@ -17,10 +17,10 @@ coverY: 42.80469897209985
 
 #### Error messages:
 
-* `Wrong key issuer` - issuer of asset is other than Supplier
-* `Not permitted` - user is not a device owner
-* `This key is banned` - key is banned by Supplier
-* `This key is already assigned`
+* `[E102] Wrong key issuerr` - issuer of asset is other than Supplier
+* `[E103] Not permitted` - user is not a device owner
+* `[E104] This key is banned` - key is banned by Supplier
+* `[E105] This key is already assigned`
 
 ```
 ###

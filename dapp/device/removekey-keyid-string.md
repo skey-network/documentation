@@ -16,7 +16,7 @@ coverY: 42.80469897209985
 
 #### Error messages:
 
-* `Not permitted` - User is not supplier/owner or key is banned/not added
+* `[E103] Not permitted` - User is not supplier/owner or key is banned/not added
 
 ```
 func removeKey(keyID: String) = {

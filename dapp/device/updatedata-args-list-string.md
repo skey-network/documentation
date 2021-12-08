@@ -19,7 +19,7 @@ Eg: `set#int#counter#1` `delete#counter2`.
 
 #### Error messages:
 
-* `Not permitted` - user is not device's Supplier
+* `[E103] Not permitted` - user is not device's Supplier
 
 ```
 func updateData(args:List[String])={
