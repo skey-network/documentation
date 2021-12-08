@@ -20,9 +20,9 @@ coverY: 43.58296622613803
 
 #### Error messages:
 
-* `wrong asset count` - more or less than one asset provided as payment
-* `wrong asset issuer` - asset issuer is other than Supplier
-* `key expired` - timestamp in key description expired
+* `[E3] Wrong key issuerr` - asset issuer is other than Supplier
+* `[E8] Key expired` - timestamp in key description expired
+* `[E15] Wrong payments count` - more or less than one asset provided as payment
 
 ```
 func transferKey(recipient: String) ={

@@ -24,10 +24,12 @@ coverY: 43.58296622613803
 
 #### Error messages:
 
-* `Owner not specified in device`
-* `Price not specified in device`
-* `Not permitted` - device not owned by user
-* `wrong price` - wrong amount of asset
+* `[E13] Not an owner` - device not owned by user
+* `[E14] Wrong price`- wrong amount of asset
+* `[E16] Wrong payment` - supported only native token
+* `[E17] Wrong payment value, expected <value>`
+* `[E21] Price not specified in device`
+* `[E22] Owner not specified in device`
 
 ```
 func requestKey(deviceAddr: String, duration: Int) = {

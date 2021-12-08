@@ -11,7 +11,7 @@ Data:
 
 * `refill_amount` **** - amount which triggers refill and sets value of transfer
 * `supplier_<address>` - address of Supplier, value: 'active'
-* `org_<address>` - address of organization, value: 'active'
+* `org_<adres>` - address of organization, value: 'active'
 
 ## **Functions Used:**
 

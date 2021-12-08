@@ -19,15 +19,15 @@ coverY: 44.36123348017621
 
 #### **Error messages:**
 
-* `Key not owned` - Key not found in user's wallet
-* `Wrong key issuer` - Key issuer is other than Supplier
-* `No such device` - There is no such device in Supplier dApp
-* `Key not whitelisted` - Key is not whitelisted in device's data
-* `Device not connected`
-* `Device not active`
-* `Key expired`
-* `Not a device key` - there is no device info in key
-* `Not a key` - there is no asset with given id
+* `[E1] Key not owned` - Key not found in user's wallet
+* `[E3] Wrong key issuer` - Key issuer is other than Supplier
+* `[E4] No such device` - There is no such device in Supplier dApp
+* `[E5]Key not whitelisted` - Key is not whitelisted in device's data
+* `[E6]Device not connected`
+* `[E7] Device not active`
+* `[E8] Key expired`
+* `[E19] Not a key` - there is no asset with given id
+* `[E20] Not a device key` - there is no device info in key
 
 ```
 func deviceAction(keyID: String, action: String) = {
