@@ -13,7 +13,7 @@ coverY: 42.02643171806167
 
 **Got 2 minutes?** Check out a video overview of our product:
 
-{% embed url="https://youtu.be/2E8vsdf9KRU" %}
+{% embed url="https://youtu.be/i9_0cRqgJJw" %}
 Skey Network - Smart City of the Future
 {% endembed %}
 
