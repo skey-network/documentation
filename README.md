@@ -11,10 +11,10 @@ coverY: 42.02643171806167
 
 ## Getting Started
 
-**Got 2 minutes?** Check out a video overview of our product:
+**Got 2 minutes?** Check out a video overview of our challenge:
 
 {% embed url="https://youtu.be/i9_0cRqgJJw" %}
-Skey Network - Smart City of the Future
+Skey Network Challenge
 {% endembed %}
 
 ## **Introduction**
