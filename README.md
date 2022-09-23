@@ -11,11 +11,7 @@ coverY: 42.02643171806167
 
 ## Getting Started
 
-**Got 2 minutes?** Check out a video overview of our challenge:
-
-{% embed url="https://youtu.be/i9_0cRqgJJw" %}
-Skey Network Challenge
-{% endembed %}
+{% embed url="https://www.youtube.com/watch?v=Vd-TD9dfB2M" %}
 
 ## **Introduction**
 
