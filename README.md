@@ -21,4 +21,5 @@ The Skey Network project is largely focused on automatization of the billing pro
 
 Skey Network’s products are more than just an application for each of our partners. Our solutions are a universal base on which our partners and later other companies or individuals can build their own applications using the products available through the Skey Network Ecosystem. This allows for a wider implementation of SmartKey in various business models building a global marketplace of services, including access control.
 
-Skey Network will provide the universal platform on which partners, companies, and individuals can build their own applications. This will allow for wide implementation of Skey Network in various business models. By building bridges between the on-chain and off-chain world, we allow blockchain and smart contracts to access off-chain assets, making them far more powerful and interoperable.
+
+Skey  Network will provide the universal platform on which partners, companies, and individuals can build their own applications. This will allow for wide implementation of Skey Network in various business models. By building bridges between the on-chain and off-chain world, we allow blockchain and smart contracts to access off-chain assets, making them far more powerful and interoperable.
