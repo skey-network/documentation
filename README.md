@@ -15,7 +15,7 @@ coverY: 42.02643171806167
 
 ## **Introduction**
 
-Skey Network's vision is to lay the foundations for the smart cities of the future. In order to do that, we are developing a range of products, partnerships, and technical solutions. These products use the universal BoT (Blockchain of Things) system to connect devices, technologies, systems, and clouds to blockchain platforms.
+Skey Network's vision is to lay the foundations for the smart cities of the future. In order to do that, we are developing a range of products, partnerships, and technical solutions. These products use the universal BoT (Blockchain of Things) system to connect devices, technologies, systems, and clouds to blockchain platforms..
 
 The Skey Network project is largely focused on automatization of the billing process and access to services. All operations, beginning with reservations and ending with access to facilities, are mostly implemented using simple systems such as sensors or electronic locks. They can be easily connected to the Skey Network Ecosystem, which in this case acts as a communication bus for IoT clouds of different suppliers. These devices are becoming increasingly common in the world that surrounds us. Skey Network is focused on devices that give access to resources such as gates, cars, car parks, parcel lockers, flats, buildings in terms of widely understood access control. However, there are many more uses and they can only be limited by our creativity.
 
