@@ -5,13 +5,13 @@ coverY: 44.36123348017621
 
 # Key to the device - NFT as a combination of three different technologies
 
-The idea of Skey Network, as a communication and access control standard, is to give NFT tokens real, physical value and usability for the whole world. The key to the Skey Network's device should be a combination of three different technologies packaged in a form that is transparent to the user.
+The idea of Skey Network, as a communication and access control standard, is to give NFT tokens real, physical value and usability throughout world. The key to a Skey Network device should be a combination of three different technologies packaged in a form that is transparent to the user.
 
-The first technology is BoT (Blockchain of Things). BoT is used to connect an IoT device’s unique IT record to the Blockchain. IoT devices can be installed in cars, gates, homes, parking lots, offices, parcel locker systems, and so on.
+The first technology is BoT (Blockchain of Things). BoT is used to connect an IoT device’s unique IT record to the Blockchain. IoT devices can be installed in all kinds of physical objects such as cars, gates, homes, parking lots, offices, parcel locker systems, and so on.
 
 The second technology is the Oracle system. Skey Network uses the second generation Oracle system. It’s goal is to connect IoT platforms with blockchain state.
 
-The third technology that is used to create the access token is the Smart Contract conditions. Those conditions can be decided by the person issuing the contract with various levels of customization. These conditions include (but are not limited to): contract expiration time, time of access, price, rules of user verification, deposit amount, and others.
+The third technology, used to create the access token is the Smart Contract conditions. These conditions can be decided by the person/company/institution issuing the contract with various levels of customization. These conditions include (but are not limited to): contract expiration time, time of access, price, rules for user verification and deposit amount, and others.
 
 The result of these technologies’ usage is a platform that connects physical devices to blockchain and creates a reliable protocol to grant permissions to access those devices.
 

@@ -1,14 +1,15 @@
 ---
-description: Creates key for device if possible.
-cover: ../../.gitbook/assets/skey logo.jpg
+cover: ../../../.gitbook/assets/skey logo.jpg
 coverY: 43.58296622613803
 ---
 
 # requestKey(deviceAddr: String, duration: Int)
 
+Creates key for device if possible.
+
 * If no price is specified in the "key\_price" entry, such a key cannot be purchased
 * Can only be purchased by the owner of the device ('owner' entry in the device)
-* A master token payment equal to `<key_price> * <time in minutes>` **** is required
+* A default token payment equal to `<key_price> * <time in minutes>` **** is required
 * The validity of such a key is calculated from the date of purchase
 
 #### Params:
@@ -52,5 +53,4 @@ func requestKey(deviceAddr: String, duration: Int) = {
     ], rechargeIfNeeded(i.caller))
   } 
 }
-
 ```

@@ -1,14 +1,15 @@
 ---
-description: Removes key from device.
-cover: ../../.gitbook/assets/skey logo.jpg
+cover: ../../../.gitbook/assets/skey logo.jpg
 coverY: 42.80469897209985
 ---
 
 # removeKey(keyID: String)
 
+Removes key from device.
+
 #### Params:
 
-* `keyID` - id of nft token
+* `keyID` - id of NFT
 
 #### Requirements:
 
@@ -33,5 +34,4 @@ func removeKey(keyID: String) = {
      }
   } else throw("Not permitted")
 }
-
 ```

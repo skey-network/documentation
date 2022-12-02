@@ -5,7 +5,7 @@ coverY: 42.80469897209985
 
 # IoT Worker
 
-#### Running from sources:
+### Running from sources:
 
 Required packages: nodejs, npm (prefered instalation via nvm)
 

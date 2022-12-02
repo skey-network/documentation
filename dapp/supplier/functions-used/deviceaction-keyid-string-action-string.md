@@ -1,10 +1,11 @@
 ---
-description: Carries out some action on device (tries to refill account on success);
-cover: ../../.gitbook/assets/skey logo.jpg
+cover: ../../../.gitbook/assets/skey logo.jpg
 coverY: 44.36123348017621
 ---
 
 # deviceAction(keyID: String, action: String)
+
+Carries out some action on device (tries to refill account on success).
 
 #### Params:
 
@@ -32,7 +33,7 @@ coverY: 44.36123348017621
 ```
 func deviceAction(keyID: String, action: String) = {
   let keyOwnerAddress = i.caller
-  let hasNoKey = assetBalance(keyOwnerAddress, fromBase58String(keyID)) < 1 # organisation has no key
+  let hasNoKey = assetBalance(keyOwnerAddress, fromBase58String(keyID)) < 1 # no key
   
   if (hasNoKey) then throw("Key not owned")
   else deviceActionWithKey(i,keyID, action) 

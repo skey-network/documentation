@@ -5,11 +5,4 @@ coverY: 42.80469897209985
 
 # Device
 
-## **Data:**
-
-* `owner` - owner address
-* `dapp` - main dApp address
-* `key_<assetId>` **** - whitelisted key
-* `key_price` - price per minute (for requestKey in Supplier)
-
-Main functions are listed bellow:
+Device dApp is a blockchain account representing a physical entity - an IoT device, car, gate, or something else connected to the Internet.

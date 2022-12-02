@@ -5,19 +5,6 @@ coverY: 42.80469897209985
 
 # Data Service Api
 
-Run in development
-
-```
-# Install dependencies
-yarn
-
-# Create env
-cp .env.example .env
-
-# Run server
-npm run start:dev
-```
-
 Run with docker
 
 `docker compose build && docker compose up`

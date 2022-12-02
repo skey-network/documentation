@@ -25,7 +25,9 @@ Execute command in project directory:
 
 Result should look like:
 
-`(...) Successfully built IMAGE_ID`
+`(...)`&#x20;
+
+`Successfully built IMAGE_ID`
 
 #### Run
 
@@ -58,7 +60,7 @@ All-in-one command which will build image and run it (ensure that the path to co
 
 * Url to node used for monitoring state of dApp:
 
-`NODE_URL='`[`https://nodes-testnet.wavesnodes.com`](https://nodes-testnet.wavesnodes.com)`'`
+`NODE_URL='`[`https://nodes-testnet.wavesnodes.com`](https://nodes-testnet.wavesnodes.com/)`'`
 
 #### Options for HTTP mode
 
@@ -74,11 +76,11 @@ Checking interval for new transactions
 
 Blockchain updates extension port
 
-`NODE_GRPC_EVENTS='localhost:6881'`
+`NODE_GRPC_EVENTS_PORT='localhost:6881'`
 
 Grpc extension port
 
-`NODE_GRPC='10.0.0.7:6877'`
+`NODE_GRPC_PORT='10.0.0.7:6877'`
 
 #### Redis
 

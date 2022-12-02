@@ -1,10 +1,11 @@
 ---
-description: Adds many keys (80 max) in one invoke.
-cover: ../../.gitbook/assets/skey logo.jpg
+cover: ../../../.gitbook/assets/skey logo.jpg
 coverY: 44.36123348017621
 ---
 
 # addManyKeys(args:List\[String])
+
+Adds many keys (80 max) in one invocation.
 
 #### Params:
 

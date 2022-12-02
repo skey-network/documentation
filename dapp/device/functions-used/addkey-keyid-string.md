@@ -1,14 +1,15 @@
 ---
-description: Adds key to device.
-cover: ../../.gitbook/assets/skey logo.jpg
+cover: ../../../.gitbook/assets/skey logo.jpg
 coverY: 42.80469897209985
 ---
 
 # addKey(keyID: String)
 
+Adds an existing NFT Key to device whitelist.
+
 #### Params:
 
-* `keyID` - id of nft token
+* `keyID` - id of NFT
 
 #### Requirements:
 
@@ -34,13 +35,6 @@ func addKey(keyID: String) = {
   let keyInfo = getAssetInfo( fromBase58String(keyID))
   let supplierAddr = addressFromStringValue(getStrByKey(supplierKey))
   let ownerAddr = addressFromStringValue(getStrByKey(ownerKey))
-
-  # let keyIsNotNft = match assetInfo(fromBase58String(keyID)) {
-  #   case asset:Asset =>
-  #       asset.decimals != 0 || asset.reissuable == true || asset.quantity != 1
-  #   case _ => true
-  # }
-
 
   # optional - check device in key (will not work with open when there is another dev address)
   if(keyInfo.issuer!=supplierAddr)then throw("Wrong key issuer") # accepted only keys issued by supplier

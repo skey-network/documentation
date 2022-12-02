@@ -5,12 +5,12 @@ coverY: 44.36123348017621
 
 # Unique Worker
 
-#### **Build**Running from sources
+### Running from sources:
 
 Required packages: nodejs, npm (prefered instalation via nvm):
 
 * Clone repository
-* Navigate to iot-worker folder
+* Navigate to `iot-worker folder`
 * Install dependencies `npm install`
 * Copy `.env.example` as .env, and modify its contents as in [Configuration file section](https://github.com/skey-network/listener-unique-worker#configuration-file)
 * Run command `npm start`
